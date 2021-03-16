@@ -8,7 +8,7 @@ Espero que este ejemplo les sea de utilidad...
 
 <div>
     <p style = 'text-align:center;'>
-    <img src="assets/screenshot.png" alt="Galeria-imagen-categoria" width="300px">
+    <img src="assets/screenshot.png" alt="Galeria-imagen-categoria" width="600px">
     </p>
 </div>
 
