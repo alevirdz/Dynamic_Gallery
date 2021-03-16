@@ -12,4 +12,4 @@ Espero que este ejemplo les sea de utilidad...
     </p>
 </div>
 
-Ver: https://alevirdz.github.io/galeria-dinamica/
+Ver: <a href="https://alevirdz.github.io/galeria-dinamica/" target="_blank" alt="Galeria dinamica">
