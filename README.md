@@ -11,3 +11,5 @@ Espero que este ejemplo les sea de utilidad...
     <img src="assets/screenshot.png" alt="Galeria-imagen-categoria" width="300px">
     </p>
 </div>
+
+Ver: https://alevirdz.github.io/galeria-dinamica/
